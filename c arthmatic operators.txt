@@ -1,0 +1,11 @@
+main()
+{
+    int i=0,num2,sum;
+    printf("enter first value:");
+    scanf("%d",&i);
+    printf("enter second value:");
+    scanf("%d",&num2);
+    sum=i+num2;
+    printf("%d+%d=%d",i,num2,sum);
+
+}
